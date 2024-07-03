@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-I developed a movie recommendation system utilizing K-Neighbors clustering. This system aimed to provide personalized movie recommendations by analyzing user preferences and clustering similar users together. Key techniques employed in this project included:
+I developed a movie recommendation system utilizing K-Means clustering. This system aimed to provide personalized movie recommendations by analyzing user preferences and clustering similar users together. Key techniques employed in this project included:
 
 1. **K-Neighbors Clustering**: This algorithm was used to group users with similar tastes, enhancing the accuracy of recommendations.
 2. **Matrix Factorization**: To decompose the user-item interaction matrix, which helped in predicting missing entries and improving recommendation quality.
